@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shsb92
 - 👀 I’m interested in Programming, Gaming, Photography
-- 🌱 I’m currently learning Korean and analouge photography
+- 🌱 I’m currently learning korean and analouge photography
 - 📫 How to reach me:
   sascha.seibel@outlook.de
 
