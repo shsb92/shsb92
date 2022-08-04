@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shsb92
-- 👀 I’m interested in Programming, Gaming, Photography and a lot of pther things
+- 👀 I’m interested in Programming, Gaming, Photography and a lot of other things
 - 🌱 I’m currently learning korean and analouge photography
 - 📫 How to reach me:
   sascha.seibel@outlook.de
