@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shsb92
+- 👋 Hi, I’m Sascha
 - 👀 I’m interested in Programming, Gaming, Photography and a lot of other things
 - 🌱 I’m currently learning korean and analouge photography
 - 📫 How to reach me:
