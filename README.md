@@ -5,7 +5,13 @@
   sascha.seibel@outlook.de
 
 <br/>
-<p align="center" style="" scroll="no">
+<style>
+table {border: none }
+tr { border: none; }
+td { border: none; }
+</style>
+
+<p align="center">
   <table style="border: none">
     <tr>
       <td align="top" width="50%">
