@@ -6,7 +6,7 @@
 
 <br/>
 <p align="center">
-  <table style="border: none">
+  <table style="border: none; overflow: hidden">
     <tr>
       <td align="top" width="50%" style="border: none">
       <img src="https://github-readme-stats.vercel.app/api?username=shsb92&count_private=true&show_icons=true&theme=vue&hide_border=true" align="left" style="width: 100%" />
