@@ -8,10 +8,10 @@
 <p align="center">
   <table style="border: none; overflow: hidden">
     <tr>
-      <td align="top" width="50%" style="border: none">
+      <td align="top" width="40%" style="border: none">
       <img src="https://github-readme-stats.vercel.app/api?username=shsb92&count_private=true&show_icons=true&theme=vue&hide_border=true" align="left" style="max-width: 100%" />
       </td>
-      <td align="top" width="50%" style="border: none">
+      <td align="top" width="40%" style="border: none">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shsb92&hide=jupyter%20notebook&layout=compact&theme=vue&hide_border=true" align="left" style="max-width: 100%" />
       </td>
     </tr>
