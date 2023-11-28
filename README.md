@@ -5,8 +5,8 @@
   sascha.seibel@outlook.de
 
 <br/>
-<style>
-table {border: none }
+<style hidden>
+table { border: none }
 tr { border: none; }
 td { border: none; }
 </style>
