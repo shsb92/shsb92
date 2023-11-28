@@ -5,12 +5,13 @@
   sascha.seibel@outlook.de
 
 <br/>
+<svg>
 <style hidden>
 table { border: none }
 tr { border: none; }
 td { border: none; }
 </style>
-
+</svg>
 <p align="center">
   <table style="border: none">
     <tr>
