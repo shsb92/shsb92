@@ -5,20 +5,13 @@
   sascha.seibel@outlook.de
 
 <br/>
-<svg>
-<style hidden>
-table { border: none }
-tr { border: none; }
-td { border: none; }
-</style>
-</svg>
 <p align="center">
   <table style="border: none">
     <tr>
-      <td align="top" width="50%">
+      <td align="top" width="50%" style="border: none">
       <img src="https://github-readme-stats.vercel.app/api?username=shsb92&count_private=true&show_icons=true&theme=vue&hide_border=true" align="left" style="width: 100%" />
       </td>
-      <td align="top" width="50%">
+      <td align="top" width="50%" style="border: none">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shsb92&hide=jupyter%20notebook&layout=compact&theme=vue&hide_border=true" align="left" style="width: 100%" />
       </td>
     </tr>
